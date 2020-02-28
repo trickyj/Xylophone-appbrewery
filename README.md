@@ -57,3 +57,5 @@ class ViewController: UIViewController {
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+## Completed App
+![Gif Capture](Documentation/Xylophone.gif)
